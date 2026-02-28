@@ -9,8 +9,8 @@ public class CseController {
 	public String disk() {
 		return "By 23mh1a05f7!";
 	}
-	@GetMapping("/cse")
+	@GetMapping("/prasad")
 	public String disk2() {
-		return "Welcome to Aditya University!";
+		return "Hello! I'm Bhagya Prasad(23MH1A05F7)!";
 	}
 }
